@@ -312,6 +312,7 @@ const allCapsules = [
       "reuse_count": 0
     }
   ]
+  
 const landingDetails = [
     {
       "id": "LZ-1",
